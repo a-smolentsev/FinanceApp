@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ created by Andrew K. <rembozebest@gmail.com> on 17.05.20 19:34
+  ~ copyright (c) 2020
+  ~ last modified 17.05.20 19:34 with ❤
+  -->
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <item android:state_checked="true" android:color="@color/colorOrange" />
+        <item android:color="@color/colorGray"  />
+
+</selector>

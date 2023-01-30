@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ created by Andrew K. <rembozebest@gmail.com> on 17.05.20 23:51
+  ~ copyright (c) 2020
+  ~ last modified 17.05.20 23:51 with ❤
+  -->
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/statusTextview"
+        android:title=""
+        app:showAsAction="always" />
+    <item android:id="@+id/spinnerBalance"
+        app:showAsAction="ifRoom"
+        app:actionViewClass="android.widget.Spinner"
+        android:title="TODO"
+        />
+</menu>

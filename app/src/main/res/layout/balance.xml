@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ created by Andrew K. <rembozebest@gmail.com> on 19.05.20 23:39
+  ~ copyright (c) 2020
+  ~ last modified 19.05.20 23:39 with ❤
+  -->
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="48dp"
+    android:layout_height="fill_parent"
+    android:layout_gravity="right">
+
+
+    <!-- Menu Item Image -->
+
+
+    <!-- Badge Count -->
+    <TextView
+        android:id="@+id/actionbar_notifcation_textview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:text="99"
+        />
+</RelativeLayout>

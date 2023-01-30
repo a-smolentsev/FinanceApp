@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/select_sort_date"
+        android:icon="@drawable/ic_date_range_black_24dp"
+        android:title="Date"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/select_sort_billings"
+        android:icon="@drawable/ic_account_balance_wallet_black_24dp"
+        android:title="Billings"
+        app:showAsAction="always" />
+</menu>

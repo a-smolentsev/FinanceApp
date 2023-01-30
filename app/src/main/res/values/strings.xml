@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Учет личных финансов</string>
+    <string name="summ_add">Введите сумму</string>
+    <string name="date_add">Дата</string>
+    <string name="time_add">Время</string>
+    <string name="categ">Категория</string>
+    <string name="account">Счет</string>
+    <string name="comment">Примечание</string>
+    <string name="Button_add">Добавить</string>
+    @navigation/mobile_navigation
+    <string name="summa">Сумма:</string>
+    <string name="categori">Категория:</string>
+    <string name="schet">Счет:</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="title_activity_launcher">Учет личных финансов</string>
+    <string name="title_home">Главная</string>
+    <string name="title_dashboard">Фильтр</string>
+    <string name="title_notifications">Настройки</string>
+    <string name="title_activity_lunch">lunch</string>
+    <string name="znak_rub">₽</string>
+    <string name="editCategory">Редактировать категории</string>
+    <string name="deleteCategory">Удалить</string>
+    <string name="editschet">Редактировать счета</string>
+    <string name="editpihot">Редактировать Доходы</string>
+    <string-array name="table">
+        <item>Доходы</item>
+        <item>Расходы</item>
+
+    </string-array>
+
+    <string-array name="balance">
+        <item>Все счета</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
